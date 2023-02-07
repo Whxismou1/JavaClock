@@ -1,1 +1,3 @@
 # JavaClock
+
+A simple clock with JFRAME, JLabel and other utilites...
